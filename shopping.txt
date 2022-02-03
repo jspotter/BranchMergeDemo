@@ -3,3 +3,4 @@ SHOPPING LIST
 * oats
 * broccoli
 * eggs
+* sanity
